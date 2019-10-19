@@ -11,7 +11,8 @@ $ cd WPBruteForce<br>
 $ ls<br>
 $ python2 Brute.py<br><br>
 
-NOTE* TARGET        : https://web.com/wp-login.php<br>
+NOTE*<br>
+TARGET        : https://web.com/wp-login.php<br>
       USERNAME      : admin<br>
       PASSWORD LIST : wordlist.txt<br><br>
  
